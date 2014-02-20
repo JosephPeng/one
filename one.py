@@ -1,4 +1,17 @@
 # -*- coding: utf-8 -*-
+
+# +-----------------------------------------------------------------------------
+# | File: one.py
+# | Author: Joseph
+# | E-mail: pengyongbuaa@gmail.com
+# | Created: 2014-02-20
+# | Last modified: 2014-02-20
+# | Description:
+# |     Description for one.py
+# |
+# | License GPLv3
+# +-----------------------------------------------------------------------------
+
 import re
 import os
 import urllib2
